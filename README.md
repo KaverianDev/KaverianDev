@@ -3,7 +3,7 @@
 <center><h1>All about me!</h1> </center> </head>
 <p>Hello, as you can see this is a read me file.
 I'm currently learning HTML and 
-CSS. As of now (27/08/24) I am a novice.
+CSS. As of now (27/08/24) I am a novice. Planning to learn other stuff
 </p> 
 
 <h3>Now, I will be listing some
