@@ -14,4 +14,5 @@ facts about me.</h3>
 a CPU series (Kaveri) I bought for £2</p>
 <p> I'm currently building my first PC</p>
 <p> Kaveri means friend in Finnish</p>
+<p> As of 1/11/24 my PC is complete. </p> 
 <p>To be continued... :)</p>
